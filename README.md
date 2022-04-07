@@ -30,3 +30,11 @@ All code is provided as chapter-specific Jupyter notebooks (download instruction
 * **Chapter 7**: *[Optimization](/jupyter_notebooks/chapter7.ipynb)*
 * **Chapter 8**: *Wrapping Up*
 * **Appendix**: *[A Brief Intro to Machine Learning (and AB testing)](/jupyter_notebooks/appendix.ipynb)*
+
+
+### Attribution
+
+We appreciate, but do not require, attribution. An attribution usually includes
+the title, author, publisher, and ISBN. For example: *Analytical Skills for AI and
+Data Science* by Daniel Vaughan (O’Reilly). Copyright 2020 Daniel Vaughan,
+978-1-492-06094-9
